@@ -9,6 +9,10 @@
 .App-link {
   color: #61dafb;
 }
+h5{
+  text-align: center;
+  color: chocolate;
+}
 
 @keyframes App-logo-spin {
   from {
